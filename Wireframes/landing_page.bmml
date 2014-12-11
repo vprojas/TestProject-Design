@@ -1,0 +1,48 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1236" measuredH="619" mockupW="997" mockupH="608">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="239" y="11" w="997" h="608" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Welcome%20to%20NYC%20School%20Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="605" y="230" w="-1" h="-1" measuredW="303" measuredH="28" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>NYC%20High%20School%20Application%20Guide</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="718" y="125" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="553" y="280" w="425" h="71" measuredW="200" measuredH="80" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Welcome%21%20The%20NYC%20High%20School%20Application%20Guide%20can%20help%20you%20find%20high%20schools%20that%20are%20a%20great%20match%20for%20you%2C%20and%20learn%20more%20about%20schools%20you%20are%20interested%20in.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="742" y="400" w="157" h="35" measuredW="68" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sign%20Up</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="574" y="405" w="-1" h="-1" measuredW="162" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Ready%20to%20get%20started%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="605" y="470" w="-1" h="-1" measuredW="172" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Already%20have%20an%20account%3F%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Link" x="771" y="471" w="-1" h="-1" measuredW="47" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sign%20In%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
